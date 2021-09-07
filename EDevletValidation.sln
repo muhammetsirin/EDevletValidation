@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDevletValidation", "EDevletValidation\EDevletValidation.csproj", "{9F5E639C-13CA-420F-8FC3-12FD17DD5CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5E639C-13CA-420F-8FC3-12FD17DD5CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5E639C-13CA-420F-8FC3-12FD17DD5CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5E639C-13CA-420F-8FC3-12FD17DD5CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5E639C-13CA-420F-8FC3-12FD17DD5CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A62C14-C297-442C-B5CB-925535D7ADD1}
+	EndGlobalSection
+EndGlobal

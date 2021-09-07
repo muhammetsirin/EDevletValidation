@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\bin\Debug\EDevletValidation.exe.config
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\bin\Debug\EDevletValidation.exe
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\bin\Debug\EDevletValidation.pdb
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.Form1.resources
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.Properties.Resources.resources
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.exe
+C:\Users\muham\source\repos\EDevletValidation\EDevletValidation\obj\Debug\EDevletValidation.pdb
